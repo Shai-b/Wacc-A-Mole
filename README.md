@@ -1,2 +1,2 @@
-# Wacc-A-Mole
+# Whac-A-Mole
 Trying my luck with react and an online game
